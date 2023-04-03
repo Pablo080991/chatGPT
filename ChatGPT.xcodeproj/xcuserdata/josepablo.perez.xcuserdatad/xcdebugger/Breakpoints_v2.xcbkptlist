@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A2E45F58-D353-443C-8B41-42022C05D73E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5974320B-1978-497C-BBE8-88B83EF2A350"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C6A30B1-F29D-4B58-BC63-C112E9C367F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C6A30B1-F29D-4B58-BC63-C112E9C367F8 - c6cdef98b671a632"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "4C6A30B1-F29D-4B58-BC63-C112E9C367F8 - 7b7f3b34dc4aea30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "4C6A30B1-F29D-4B58-BC63-C112E9C367F8 - 25362d660eb78c37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCE8000D-CCCE-4A8E-BCA9-72430B800E0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCE8000D-CCCE-4A8E-BCA9-72430B800E0F - c6cdef98b671a75b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "CCE8000D-CCCE-4A8E-BCA9-72430B800E0F - 7b7f3b34dc4aeb59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1294">
+               </Location>
+               <Location
+                  uuid = "CCE8000D-CCCE-4A8E-BCA9-72430B800E0F - 25362d660eb78d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "287">
+               </Location>
+               <Location
+                  uuid = "CCE8000D-CCCE-4A8E-BCA9-72430B800E0F - 25362d660eb78d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "743">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CE5F45E-D705-4926-93A8-11B9FB4964B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CE5F45E-D705-4926-93A8-11B9FB4964B2 - 25362d660eb78d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "310">
+               </Location>
+               <Location
+                  uuid = "1CE5F45E-D705-4926-93A8-11B9FB4964B2 - 25362d660eb78d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "398">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36080F25-3452-43EC-8AA7-83B7CA5CE273"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36080F25-3452-43EC-8AA7-83B7CA5CE273 - 87baf604e86b35d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "758">
+               </Location>
+               <Location
+                  uuid = "36080F25-3452-43EC-8AA7-83B7CA5CE273 - 4e5e725f113bb051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E186201D-1A73-42AB-95D0-4D5B44407F4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4586D9E1-A733-46C5-9058-0C54D8670ECA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4586D9E1-A733-46C5-9058-0C54D8670ECA - 87baf604e86b34d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "4586D9E1-A733-46C5-9058-0C54D8670ECA - 87baf604e86b34d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F9169FB-0C81-44D3-A891-71BB8A977D81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F9169FB-0C81-44D3-A891-71BB8A977D81 - 87baf604e86b34fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  uuid = "6F9169FB-0C81-44D3-A891-71BB8A977D81 - 87baf604e86b34fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "719">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE95B091-A4F5-4312-BE3A-5E7A90B0BB6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41DE0792-78A3-49C1-9B1C-0A65B5288096"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFDAD217-47CE-45B0-B506-C4B8B41692F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44190E3B-DD5F-4115-93E0-126472216FA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2ACDF13-EB1F-4373-961B-6E99D17FF623"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3689C8E6-2C42-4718-B5B0-1951F405BA7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3689C8E6-2C42-4718-B5B0-1951F405BA7E - c6cdef98b671a7df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "758">
+               </Location>
+               <Location
+                  uuid = "3689C8E6-2C42-4718-B5B0-1951F405BA7E - 7b7f3b34dc4aebdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+               <Location
+                  uuid = "3689C8E6-2C42-4718-B5B0-1951F405BA7E - 25362d660eb78dda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.RegexCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/Regex/RegexCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "835">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA920525-FDF8-41F4-926F-7EC39E5750A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E0C4983-3ABD-4AFC-952A-9BC240998482"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E0C4983-3ABD-4AFC-952A-9BC240998482 - c6cdf58f8bf6af3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "0E0C4983-3ABD-4AFC-952A-9BC240998482 - 350c0a711659a0e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "0E0C4983-3ABD-4AFC-952A-9BC240998482 - 26aaa9a2d4c1955c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAC7E4EE-75FC-4E0C-B925-1C927E488C86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAC7E4EE-75FC-4E0C-B925-1C927E488C86 - c6cdf58f8bf6af3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "CAC7E4EE-75FC-4E0C-B925-1C927E488C86 - 350c0a711659a0e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "CAC7E4EE-75FC-4E0C-B925-1C927E488C86 - 26aaa9a2d4c1955c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "657663BD-4D34-4262-9420-AFFC1224C873"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "511932BE-0185-4896-BED8-8F7AD6488D17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF317B82-8CBA-49EB-A0D3-1853F3E0947D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B633DE07-9972-49C0-9B45-C4D41AF69DC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B633DE07-9972-49C0-9B45-C4D41AF69DC7 - 6c72d741fe93c38a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "682">
+               </Location>
+               <Location
+                  uuid = "B633DE07-9972-49C0-9B45-C4D41AF69DC7 - 26aaa9a2d4c19583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "B633DE07-9972-49C0-9B45-C4D41AF69DC7 - 26aaa9a2d4c19583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "589">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA37BED0-B82E-44BC-ABAD-2221A81FC014"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA37BED0-B82E-44BC-ABAD-2221A81FC014 - 26aaa9a2d4c19462"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "BA37BED0-B82E-44BC-ABAD-2221A81FC014 - 26aaa9a2d4c19462"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD37BECF-A425-41EF-85EE-F97E135BBBB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "perform(with:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD37BECF-A425-41EF-85EE-F97E135BBBB8 - 6c72d741fe93c20e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "743">
+               </Location>
+               <Location
+                  uuid = "DD37BECF-A425-41EF-85EE-F97E135BBBB8 - 26aaa9a2d4c19407"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ChatGPTExtension.ExplainCodeCommand.perform(with: __C.XCSourceEditorCommandInvocation, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Commands/ExplainCode/ExplainCodeCommand.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "658">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB337C6A-36B0-49F5-B17D-A926A1523AA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Domain/UseCase/ExplainCode/DefaultExplainCodeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "explainMeThis(code:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB337C6A-36B0-49F5-B17D-A926A1523AA8 - e1aaf44288ab4d78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ChatGPTExtension.DefaultExplainCodeUseCase.explainMeThis(code: Swift.String) async throws -&gt; ChatGPTExtension.Suggestion"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Domain/UseCase/ExplainCode/DefaultExplainCodeUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FB337C6A-36B0-49F5-B17D-A926A1523AA8 - 11c229112def870a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ChatGPTExtension.DefaultExplainCodeUseCase.explainMeThis(code: Swift.String) async throws -&gt; ChatGPTExtension.Suggestion"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Domain/UseCase/ExplainCode/DefaultExplainCodeUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "FB337C6A-36B0-49F5-B17D-A926A1523AA8 - 6885802896de997e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTExtension.DefaultExplainCodeUseCase.explainMeThis(code: Swift.String) async throws -&gt; ChatGPTExtension.Suggestion"
+                  moduleName = "ChatGPTExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepablo.perez/Downloads/ChatGPT-Xcode-main%202/ChatGPTExtension/Domain/UseCase/ExplainCode/DefaultExplainCodeUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E914FA4E-5BF4-4E84-8E66-79A8E77D46A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Domain/UseCase/ExplainCode/DefaultExplainCodeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "explainMeThis(code:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA9B4DED-5E70-4A9B-8C33-7F7016AE21AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Data/Repositories/ChatGPTExplainCodeRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "explainMeThis(code:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0923EF8-A714-4909-B3C5-34C67ACC8406"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Data/Repositories/ChatGPTExplainCodeRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "explainMeThis(code:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90E17501-E480-4C54-88B3-1C74D7FB2D11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Data/Repositories/BaseChatGPTRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchApiKey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6C74B2F-1DB2-4FA4-A287-0FD4840DBB20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Data/Repositories/BaseChatGPTRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "fetchApiKey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68705E60-C2C9-4EDF-B19B-D9EE011DA6B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Data/Repositories/BaseChatGPTRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchApiKey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA705E02-198B-4467-9D00-7ECD5D9F318B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTExtension/Data/Repositories/BaseChatGPTRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchApiKey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

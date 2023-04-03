@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ChatGPT
+
+  Created by Jose Pablo Perez Estrada on 22/03/23.
+  
+*/
+
+
+"PROMPT_CODE_SMELLS" = "can you detect code smells and refactor the following code without explication only refactor de code ";
+
+
